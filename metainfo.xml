@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="A77EEDD4-B66C-46B4-B991-2BCCCC7F8E98" version="0">
+<presentation availableOffline="1" guid="FF986BE9-891F-45CB-AEED-4E6674AF2C82" version="0">
 	<info>
 		<title>2021_02_21 Class-10  Foundation Half Exam-1</title>
 		<description/>
 	</info>
-	<files index="id39" thumbnail="id35" totalSize="3492297">
+	<files index="id39" thumbnail="id35" totalSize="3490585">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
